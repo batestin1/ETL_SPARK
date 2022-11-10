@@ -1,0 +1,8 @@
+{
+    "url": "https://dados.gov.br/dataset/gestao-de-pessoas-executivo-federal-gratificacoes",
+    "compile": "^http://landpage-h.cgu.gov.br/dadosabertos/",
+    "csv_path":"br_federal_servers_gratuities/datalake/csv/",
+    "parquet_bronze":"br_federal_servers_gratuities/datalake/bronze/",
+    "parquet_silver":"br_federal_servers_gratuities/datalake/silver/",
+    "parquet_gold":"br_federal_servers_gratuities/datalake/gold/"
+}
